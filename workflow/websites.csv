@@ -480,4 +480,17 @@ Academic Torrents,http://academictorrents.com/browse.php?search={query}
 g: GitHub (C#) (best match),https://github.com/search?q={query}+language%3AC%23&type=Repositories
 g: GitHub (C#) (most stars),https://github.com/search?q={query}+language%3AC%23&s=stars&type=Repositories
 g: GitHub (C#) (recent updated),https://github.com/search?q={query}+language%3AC%23&s=updated&type=Repositories
-CoinMarketCap,https://coinmarketcap.com/search/?q={query}
+CoinMarketCap,https://coinmarketcap.com/search/?q=
+Tripadvisor,https://www.tripadvisor.com/Search?q={query}
+Amazon (DE),https://www.amazon.de/s?k={query}
+Amazon (FR),https://www.amazon.fr/s?k={query}
+Amazon (IT),https://www.amazon.it/s?k={query}
+Amazon (ES),https://www.amazon.es/s?k={query}
+Amazon (NL),https://www.amazon.nl/s?k={query}
+Ebay (US),https://www.ebay.com/sch/i.html?_nkw={query}
+Ebay (UK),https://www.ebay.co.uk/sch/i.html?_nkw={query}
+Ebay (NL),https://www.ebay.nl/sch/i.html?_nkw={query}
+Pepper (DE),https://www.mydealz.de/search?q={query}
+Pepper (UK),https://www.hotukdeals.com/search?q={query}
+Pepper (NL),https://nl.pepper.com/search?q={query}
+Marktplaats (local NL Ebay),https://www.marktplaats.nl/q/{query}/
